@@ -18,6 +18,6 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py createsupersuer
 python manage.py runserver
-cd backend (package.json所在文件夹)
+cd frontend (package.json所在文件夹)
 npm install （安装package.json内的dependicies）
 http://localhost:3000/ 访问正常 可登录 可注册
